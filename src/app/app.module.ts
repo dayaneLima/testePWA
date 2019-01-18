@@ -7,6 +7,8 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 
 import { AppComponent } from './app.component';
 import { TodoComponent } from './todo/todo.component';
+import { ServiceWorkerModule } from '@angular/service-worker';
+import { environment } from '../environments/environment';
 
 @NgModule({
   declarations: [
@@ -23,7 +25,8 @@ import { TodoComponent } from './todo/todo.component';
     MatButtonModule,
     MatFormFieldModule,
     MatInputModule,
-    MatIconModule
+    MatIconModule,
+    ServiceWorkerModule.register('ngsw-worker.js', { enabled: environment.production })
     // FlexLayoutModule
   ],
   providers: [],
