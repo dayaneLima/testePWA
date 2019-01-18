@@ -9,7 +9,7 @@
       "urls": [
         "https://dayanelima.github.io/testePWA/favicon.ico",
         "https://dayanelima.github.io/testePWA/index.html",
-        "https://dayanelima.github.io/testePWA/main.fa46b252e03229b19be6.js",
+        "https://dayanelima.github.io/testePWA/main.01f6fd4fafd130e54e6e.js",
         "https://dayanelima.github.io/testePWA/polyfills.3901be72342f710fa8bb.js",
         "https://dayanelima.github.io/testePWA/runtime.06daa30a2963fa413676.js",
         "https://dayanelima.github.io/testePWA/styles.7889bc773b84544b7c1d.css"
@@ -44,8 +44,8 @@
     "https://dayanelima.github.io/testePWA/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "https://dayanelima.github.io/testePWA/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://dayanelima.github.io/testePWA/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "https://dayanelima.github.io/testePWA/index.html": "b3e43904e1f09ea8a2c38005a2ee8cc111bd86c0",
-    "https://dayanelima.github.io/testePWA/main.fa46b252e03229b19be6.js": "27f6e28993c0078ae2c08dc8b1bcea4235195277",
+    "https://dayanelima.github.io/testePWA/index.html": "1d8dc63fbb8bfa2532bd27092bffe89060769ca4",
+    "https://dayanelima.github.io/testePWA/main.01f6fd4fafd130e54e6e.js": "b2d66e1e681f22e19aa3e452ca9bd63202084f01",
     "https://dayanelima.github.io/testePWA/polyfills.3901be72342f710fa8bb.js": "4972f8ce124eea73d14110f31df221e807a56ffe",
     "https://dayanelima.github.io/testePWA/runtime.06daa30a2963fa413676.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
     "https://dayanelima.github.io/testePWA/styles.7889bc773b84544b7c1d.css": "2ac20f4867c0e77e8632a424c50d4c618640c03b"
